@@ -55,7 +55,7 @@ fn main() {
     let username = "Dein Username";
     let password = "Dein Passwort";
     let output_dir = "./downloads";
-
+//test
     let depots = vec![
         (730, 731, Some(8382545303357448663)),
         (730, 732, Some(6288681278692387627)),
