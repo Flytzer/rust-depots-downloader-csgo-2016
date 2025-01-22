@@ -57,8 +57,8 @@ fn main() {
     let output_dir = "./downloads";
 //test
     let depots = vec![
-        (730, 731, Some(8382545303357448663)),
-        (730, 732, Some(6288681278692387627)),
+        (730, 731, Some(8382545303357448663)), //pls insert your depot manifest and app id
+        (730, 732, Some(6288681278692387627)), //pls insert your depot manifest and app id
     ];
 
     for (app_id, depot_id, manifest_id) in depots {
